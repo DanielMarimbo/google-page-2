@@ -54,16 +54,22 @@ i{
     padding: 0 8px;
 }
 
-.button{
-    display: block;
-    padding: 20px;
-    margin-top: 8px;
-    text-align: center;
+button{
+    background: rgb(7, 42, 240);
+    border: none;
+    border-radius: 3px;
+    padding: 3px 10px;
 }
- 
-.button button{
-    padding: 8px;
-    margin: 14px;
+
+.btn{
+    background: rgb(40, 76, 240);
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-align: center;
 }
 
 .footer{
